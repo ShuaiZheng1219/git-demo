@@ -1,4 +1,5 @@
 hello git
+zs first study git! hot fix test
 zs first study git!
 zs first study git!
 zs first study git!
@@ -7,6 +8,5 @@ zs first study git!
 zs first study git!
 zs first study git!
 zs first study git!
-zs first study git!
-zs first study git!
+zs first study git! 
 hot-fix1111111111
